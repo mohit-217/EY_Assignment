@@ -46,7 +46,7 @@ Run the following command:
 !accelerate launch -m axolotl.cli.inference /content/test_axolotl.yaml \ 
     --lora_model_dir="mohit9999/all_news_finance_sm_1h2023_custom_model" --gradio
 ```
-
+You can try multiple models by changing the model name find the below list of models.
 ---
 
 ## Dataset and Model Information
