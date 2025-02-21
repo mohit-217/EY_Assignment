@@ -53,6 +53,7 @@ Run the following command:
 - **Dataset URL:** [Hugging Face Dataset](https://huggingface.co/mohit9999/all_news_finance_sm_1h2023_custom)
 - **Model1 and Logs URL:** [Hugging Face Model](https://huggingface.co/mohit9999/all_news_finance_sm_1h2023_custom_model)
 - **Model2 and Logs URL:** [Hugging Face Model](https://huggingface.co/mohit9999/all_news_finance_sm_1h2023_custom_model_2)
+- **Model2 and Logs URL:** [Hugging Face Model](https://huggingface.co/mohit9999/all_news_finance_sm_1h2023_custom_model_3)
 
 ---
 
