@@ -1,5 +1,7 @@
 # Model Training Logs
-
+## Training Configuration
+Go through the file test_axoltol.yaml for one sample configuration. There are multiple 
+model replicas are uploaded to huggingface. Which contain the entire configuration of the each model training.
 ## Training Details
 This document contains the training logs for the fine-tuning of a custom model on financial news data.
 
